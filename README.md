@@ -13,7 +13,6 @@ The goal of this project is to improve the **usability**, **user experience**, a
 
 ## Links  
 - **Behance Case Study**: [View Case Study](https://www.behance.net/gallery/210296747/UIUX-Case-Study-Redesign-of-Mahara-Tech-website)  
-- **Figma Design**: [View Prototype](https://www.figma.com/design/Gx2LCaa9anZtqalVyrhcME/maharatech?node-id=723-25361&t=4zFMA6qZOQMM9PKN-1)  
 
 ---
 
